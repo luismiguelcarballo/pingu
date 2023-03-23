@@ -1,0 +1,26 @@
+/* Estilos personalizados para el sitio web */
+
+/* Ajuste de la altura de la barra de navegación */
+.navbar {
+  height: 80px;
+}
+
+/* Estilos de la imagen del encabezado */
+header img {
+  height: 400px;
+}
+
+/* Estilos de las tarjetas de productos */
+.card {
+  height: 100%;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Estilos de la imagen de contacto */
+section:last-child img {
+  height: 400px;
+}
